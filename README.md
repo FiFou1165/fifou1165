@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi, moi c'est FiFou1165 👋
 
-<!--
+<img src="https://image.noelshack.com/fichiers/2023/20/5/1684518324-github.png">
+
+
+
+
+
+
 **FiFou1165/fifou1165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
