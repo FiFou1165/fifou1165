@@ -10,7 +10,7 @@
   <li>HTML/CSS</li>
   <li>Javascript/Typescript</li>
   <li>NodeJS</li>
-  <li>PHP</li>
+  <li>PHP/Mysql</li>
 </ul>
 **FiFou1165/fifou1165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  
