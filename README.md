@@ -18,7 +18,3 @@
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/475646630222364691)](https://discord.com/users/475646630222364691)
-
-[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=sm3mvxpbz0l3o848wkcxe7sfw&theme=default&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=false&sound_waves_color=%231ED760&background=true&background_color=%23121212)](https://github.com/Hecsall/spotiwidget)
-
-
