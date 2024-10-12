@@ -10,11 +10,10 @@
 <h2> Langages </h2>
 <ul>
   <li>C/C#/C++</li>
-  <li>HTML/CSS</li>
-  <li>Tailwind/Bootstrap</li>
-  <li>Javascript/Typescript</li>
+  <li>React</li>
+  <li>Sql/Symfony</li>
+  <li>Javascript</li>
   <li>NodeJS</li>
-  <li>PHP/Mysql</li>
 </ul>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/475646630222364691)](https://discord.com/users/475646630222364691)
